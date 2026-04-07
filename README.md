@@ -7,7 +7,7 @@
 
 ## 关于我
 
-前端开发者，专注于构建清晰、高性能的 Web 与小程序界面。自 2022 年加入 GitHub，主要活跃于 Vue 生态项目与现代 JavaScript 工具链。
+软件开发者，专注于构建清晰、高性能的 Web 与小程序界面。自 2022 年加入 GitHub，主要活跃于 Vue 生态项目与现代 JavaScript 工具链。
 
 目前在 [nutui-uniapp](https://github.com/nutui-uniapp) 组织参与贡献。以 Builder 模式为主，过去 90 天内在 2 个公开仓库保持活跃，提交占比 62.5%，拉取请求占比 37.5%。
 
@@ -29,9 +29,6 @@
 
 **eletools** — 快速轻量级翻译工具，使用 DeepLX 实现沉浸式翻译，并集成 GPT-4.0 解释功能  
 [![Stars](https://img.shields.io/github/stars/huaerss/eletools?style=flat-square&color=58A6FF)](https://github.com/huaerss/eletools) • TypeScript
-
-**switchRegistry** — 注册表切换工具  
-[![Stars](https://img.shields.io/github/stars/huaerss/switchRegistry?style=flat-square&color=58A6FF)](https://github.com/huaerss/switchRegistry) • JavaScript
 
 **NoteWithvirepress** — 基于 VitePress 的笔记项目  
 [![Stars](https://img.shields.io/github/stars/huaerss/NoteWithvirepress?style=flat-square&color=58A6FF)](https://github.com/huaerss/NoteWithvirepress) • JavaScript
